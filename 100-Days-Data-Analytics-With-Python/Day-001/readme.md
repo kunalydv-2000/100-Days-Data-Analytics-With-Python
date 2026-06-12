@@ -272,14 +272,14 @@ Example:
 
 # ✅ Completion Checklist
 
-* [ ] Python installed
-* [ ] VS Code configured
-* [ ] Jupyter Notebook working
-* [ ] First Python program executed
-* [ ] Variables understood
-* [ ] Practice exercises completed
-* [ ] Mini project completed
-* [ ] Code pushed to GitHub
+* [x] Python installed
+* [x] VS Code configured
+* [x] Jupyter Notebook working
+* [x] First Python program executed
+* [x] Variables understood
+* [x] Practice exercises completed
+* [x] Mini project completed
+* [x] Code pushed to GitHub
 
 ---
 
