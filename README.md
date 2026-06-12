@@ -1,3 +1,4 @@
+![Roadmap](https://github.com/kunalydv-2000/100-Days-Data-Analytics-With-Python/blob/1d807ae882e4e0b5f50ab57ab32bd2cb6a75c85a/roadmap.png)
 # 🚀 100 Days of Python for Data Analytics
 
 Welcome to my **100-Day Data Analytics Journey**.
